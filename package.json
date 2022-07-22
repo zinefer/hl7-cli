@@ -1,5 +1,5 @@
 {
-    "name": "zinefer/hl7-cli",
+    "name": "hl7-cli",
     "version": "0.0.1",
     "dependencies": { },
     "bin": "./bin.js"
